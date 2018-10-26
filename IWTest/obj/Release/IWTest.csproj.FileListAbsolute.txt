@@ -1,0 +1,252 @@
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\ApplicationInsights.config
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\IWTest.dll.config
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\IWTest.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\IWTest.pdb
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\csc.exe
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\csc.exe.config
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\csc.rsp
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\csi.exe
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\csi.exe.config
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\csi.rsp
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.AppContext.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Console.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\vbc.exe
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\vbc.exe.config
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\vbc.rsp
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Antlr3.Runtime.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\EntityFramework.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AI.Web.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Newtonsoft.Json.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Owin.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\System.Web.Optimization.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\System.Web.Providers.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\WebGrease.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\System.Web.Optimization.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Newtonsoft.Json.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Antlr3.Runtime.pdb
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\EntityFramework.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\EntityFramework.SqlServer.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\System.Web.Providers.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.AI.Web.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\es\EntityFramework.resources.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\obj\Release\IWTest.csprojAssemblyReference.cache
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\obj\Release\IWTest.csproj.CoreCompileInputs.cache
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\obj\Release\IWTest.csproj.CopyComplete
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\obj\Release\IWTest.dll
+C:\Users\Kelly Cervantes\source\repos\IWTest\IWTest\obj\Release\IWTest.pdb
+E:\Workspace\Personales\IWTest\IWTest\bin\ApplicationInsights.config
+E:\Workspace\Personales\IWTest\IWTest\bin\IWTest.dll.config
+E:\Workspace\Personales\IWTest\IWTest\bin\IWTest.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\IWTest.pdb
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\csc.exe
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\csc.exe.config
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\csc.rsp
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\csi.exe
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\csi.exe.config
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\csi.rsp
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.AppContext.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Collections.Immutable.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Console.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Diagnostics.Process.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.IO.Compression.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.IO.FileSystem.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.IO.Pipes.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Security.AccessControl.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Security.Claims.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Threading.Thread.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.ValueTuple.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Xml.XPath.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\vbc.exe
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\vbc.exe.config
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\vbc.rsp
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\VBCSCompiler.exe
+E:\Workspace\Personales\IWTest\IWTest\bin\roslyn\VBCSCompiler.exe.config
+E:\Workspace\Personales\IWTest\IWTest\bin\Antlr3.Runtime.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\AspNet.ScriptManager.jQuery.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\EntityFramework.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\EntityFramework.SqlServer.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AI.DependencyCollector.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AI.Web.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AI.WindowsServer.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.ApplicationInsights.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.Google.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Web.Infrastructure.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Newtonsoft.Json.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\Owin.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\System.Web.Optimization.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\System.Web.Providers.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\WebGrease.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\System.Web.Optimization.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Newtonsoft.Json.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Antlr3.Runtime.pdb
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\EntityFramework.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\EntityFramework.SqlServer.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\System.Web.Providers.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.Google.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AI.DependencyCollector.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AI.WindowsServer.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.AI.Web.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workspace\Personales\IWTest\IWTest\bin\es\System.Web.Optimization.resources.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\es\EntityFramework.resources.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Workspace\Personales\IWTest\IWTest\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Workspace\Personales\IWTest\IWTest\obj\Release\IWTest.csprojAssemblyReference.cache
+E:\Workspace\Personales\IWTest\IWTest\obj\Release\IWTest.csproj.CoreCompileInputs.cache
+E:\Workspace\Personales\IWTest\IWTest\obj\Release\IWTest.csproj.CopyComplete
+E:\Workspace\Personales\IWTest\IWTest\obj\Release\IWTest.dll
+E:\Workspace\Personales\IWTest\IWTest\obj\Release\IWTest.pdb

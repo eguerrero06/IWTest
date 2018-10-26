@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IWTestModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Address">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StreetName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="IndividualAddress" Relationship="Self.FK_IndividualAddress_Address" FromRole="Address" ToRole="IndividualAddress" />
+  </EntityType>
+  <EntityType Name="Individual">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="IndividualAddress" Relationship="Self.FK_IndividualAddress_Individual" FromRole="Individual" ToRole="IndividualAddress" />
+  </EntityType>
+  <EntityType Name="IndividualAddress">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IndividualId" Type="Int32" Nullable="false" />
+    <Property Name="AddressId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Address" Relationship="Self.FK_IndividualAddress_Address" FromRole="IndividualAddress" ToRole="Address" />
+    <NavigationProperty Name="Individual" Relationship="Self.FK_IndividualAddress_Individual" FromRole="IndividualAddress" ToRole="Individual" />
+  </EntityType>
+  <Association Name="FK_IndividualAddress_Address">
+    <End Role="Address" Type="Self.Address" Multiplicity="1" />
+    <End Role="IndividualAddress" Type="Self.IndividualAddress" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Address">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="IndividualAddress">
+        <PropertyRef Name="AddressId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IndividualAddress_Individual">
+    <End Role="Individual" Type="Self.Individual" Multiplicity="1" />
+    <End Role="IndividualAddress" Type="Self.IndividualAddress" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Individual">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="IndividualAddress">
+        <PropertyRef Name="IndividualId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="IWTestEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Address" EntityType="Self.Address" />
+    <EntitySet Name="Individual" EntityType="Self.Individual" />
+    <EntitySet Name="IndividualAddress" EntityType="Self.IndividualAddress" />
+    <AssociationSet Name="FK_IndividualAddress_Address" Association="Self.FK_IndividualAddress_Address">
+      <End Role="Address" EntitySet="Address" />
+      <End Role="IndividualAddress" EntitySet="IndividualAddress" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IndividualAddress_Individual" Association="Self.FK_IndividualAddress_Individual">
+      <End Role="Individual" EntitySet="Individual" />
+      <End Role="IndividualAddress" EntitySet="IndividualAddress" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
