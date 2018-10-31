@@ -40,7 +40,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="alert alert-success">
-                        Select two individuals by clickin a row holding the ctrl key or holding touch or click.
+                        Select two individuals by clicking a row holding the ctrl key or holding touch or click.
                     </div>
                 </div>
 
